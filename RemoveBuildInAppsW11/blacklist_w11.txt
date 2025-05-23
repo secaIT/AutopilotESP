@@ -3,17 +3,18 @@ Prefix item with # to mark it for removal
 
 Microsoft.549981C3F5F10
 #Microsoft.BingNews
+#Microsoft.BingSearch
 #Microsoft.BingWeather
 Microsoft.DesktopAppInstaller
 #Microsoft.GamingApp
-Microsoft.GetHelp
+#Microsoft.GetHelp
 Microsoft.Getstarted
 Microsoft.HEIFImageExtension
 Microsoft.MicrosoftEdge.Stable
 #Microsoft.MicrosoftOfficeHub
 #Microsoft.MicrosoftSolitaireCollection
 Microsoft.MicrosoftStickyNotes
-Microsoft.OutlookForWindows
+#Microsoft.OutlookForWindows
 Microsoft.Paint
 Microsoft.People
 Microsoft.PowerAutomateDesktop
@@ -46,4 +47,5 @@ Microsoft.WindowsTerminal
 #Microsoft.ZuneMusic
 #Microsoft.ZuneVideo
 #MicrosoftTeams
+#MicrosoftCorporationII.QuickAssist
 MicrosoftWindows.Client.WebExperience
