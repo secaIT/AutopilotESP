@@ -13,12 +13,13 @@ Microsoft.MicrosoftEdge.Stable
 #Microsoft.MicrosoftOfficeHub
 #Microsoft.MicrosoftSolitaireCollection
 Microsoft.MicrosoftStickyNotes
+Microsoft.OutlookForWindows
 Microsoft.Paint
 Microsoft.People
 Microsoft.PowerAutomateDesktop
 Microsoft.ScreenSketch
 Microsoft.SecHealthUI
-Microsoft.StorePurchaseApp
+#Microsoft.StorePurchaseApp
 Microsoft.Todos
 Microsoft.UI.Xaml.2.4
 Microsoft.VCLibs.140.00
@@ -30,7 +31,7 @@ Microsoft.WindowsAlarms
 Microsoft.WindowsCalculator
 Microsoft.WindowsCamera
 #Microsoft.WindowsCommunicationsApps
-Microsoft.WindowsFeedbackHub
+#Microsoft.WindowsFeedbackHub
 Microsoft.WindowsMaps
 Microsoft.WindowsNotepad
 Microsoft.WindowsSoundRecorder
