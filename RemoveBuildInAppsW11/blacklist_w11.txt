@@ -27,6 +27,7 @@ Microsoft.VCLibs.140.00
 Microsoft.VP9VideoExtensions
 Microsoft.WebMediaExtensions
 Microsoft.WebpImageExtension
+#Microsoft.Windows.DevHome
 Microsoft.Windows.Photos
 Microsoft.WindowsAlarms
 Microsoft.WindowsCalculator
@@ -47,5 +48,6 @@ Microsoft.WindowsTerminal
 #Microsoft.ZuneMusic
 #Microsoft.ZuneVideo
 #MicrosoftTeams
+#MicrosoftCorporationII.MicrosoftFamily
 #MicrosoftCorporationII.QuickAssist
 MicrosoftWindows.Client.WebExperience
